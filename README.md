@@ -1,5 +1,5 @@
 # Object Detection for Aerial Purposes, using an R-CNN
-Using the Stanford drone project data set, I decided to create a computer vision project using PyTorch to encapsulate a the advantages of having an aerial camera on an environment for object detection. Specifically includes the implementation of an object detection model using Faster R-CNN with a ResNet50 backbone in PyTorch. The model is designed to work on video data and can be trained on custom datasets.
+Using the Stanford drone project data set, I decided to create a computer vision project using PyTorch to encapsulate the advantages of having an aerial camera on an environment for object detection. Specifically includes the implementation of an object detection model using Faster R-CNN with a ResNet50 backbone in PyTorch. The model is designed to work on video data and can be trained on custom datasets.
 
 ## Dependencies
 
